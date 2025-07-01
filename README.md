@@ -25,13 +25,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**SEU_USUARIO_AQUI**&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_USUARIO_AQUI**&layout=compact&theme=tokyonight)
-
----
 
 > “A tecnologia move o mundo. Continue curioso.” 🚀
 
