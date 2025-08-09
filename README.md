@@ -21,7 +21,7 @@
 ## 📫 Contato
 
 ✉️ vitor_santana00@hotmail.com  
-🌍 Em breve: link do LinkedIn atualizado  
+🌍 www.linkedin.com/in/santana-vitor 
 
 ---
 
