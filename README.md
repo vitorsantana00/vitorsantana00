@@ -1,31 +1,14 @@
-# 👋 Olá, eu sou o Vitor Santana
+## 👋 Olá, eu sou o João Vitor Santana
 
-🎯 Apaixonado por tecnologia com experiência em suporte técnico, infraestrutura de TI e atendimento ao usuário.
+🎯 Estudante de Ciência da Computação, focado em **Desenvolvimento Backend com Java**.
 
-💻 Atualmente estudando **Python** e focado em aplicações com **Blockchain** e **DeFi**.
+Atualmente estou estudando e praticando:
+- Java (fundamentos e orientação a objetos)
+- Lógica de Programação
+- APIs REST (conceitos)
+- SQL
+- Git/GitHub
 
-🚀 Sempre aprendendo, compartilhando conhecimento e explorando soluções inovadoras no universo tech.
+💼 Tenho experiência profissional em TI e suporte técnico, o que fortaleceu minha base em resolução de problemas, organização e trabalho em ambientes corporativos.
 
----
-
-## 🔧 Tecnologias & Ferramentas
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Blockchain](https://img.shields.io/badge/-Blockchain-0e1117?style=flat&logo=bitcoin&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📫 Contato
-
-✉️ vitor_santana00@hotmail.com  
-🌍 www.linkedin.com/in/santana-vitor 
-
----
-
-
-
-> “A tecnologia move o mundo. Continue curioso.” 🚀
-
+🚀 Buscando oportunidade como **Desenvolvedor Backend Júnior**.
