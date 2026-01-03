@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o João Vitor Santana
+## 👋 Olá, eu sou o Vitor Santana
 
 🎯 Estudante de Ciência da Computação, focado em **Desenvolvimento Backend com Java**.
 
